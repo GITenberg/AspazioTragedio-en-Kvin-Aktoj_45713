@@ -1,0 +1,40 @@
+_repo: AspazioTragedio-en-Kvin-Aktoj_45713
+_version: 0.1.0
+alternative_title: Aspazja. Esperanto
+contributor:
+  translator:
+    agent_name: Zamenhof, Leon
+    alias: Zamenhof, Leono
+    birthdate: 1875
+    deathdate: 1934
+    gutenberg_agent_id: '43423'
+    url: http://www.gutenberg.org/2009/agents/43423
+    wikipedia: http://eo.wikipedia.org/wiki/Leono_Zamenhof
+covers:
+- cover_type: archival
+  image_path: 45713-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Świętochowski, Aleksander
+    alias: Swietochowski, Aleksander
+    birthdate: 1849
+    deathdate: 1938
+    gutenberg_agent_id: '43422'
+    url: http://www.gutenberg.org/2009/agents/43422
+    wikipedia: http://en.wikipedia.org/wiki/Aleksander_%C5%9Awi%C4%99tochowski
+description: ''
+gutenberg_bookshelf: Esperanto
+gutenberg_issued: '2014-05-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45713'
+language: eo
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tragedies'
+- !lcc 'PG'
+- !lcsh 'Drama'
+title: 'Aspazio: Tragedio en Kvin Aktoj'
+url: http://www.gutenberg.org/ebooks/45713
